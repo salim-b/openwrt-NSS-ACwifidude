@@ -1,0 +1,5 @@
+src-git-full packages https://git.openwrt.org/feed/packages.git^04d5fa8df
+src-git-full luci https://git.openwrt.org/project/luci.git^2145121d4c
+src-git-full routing https://git.openwrt.org/feed/routing.git^1b063f3
+src-git-full telephony https://git.openwrt.org/feed/telephony.git^39ca113
+src-git nss https://github.com/qosmio/nss-packages.git^c509082
